@@ -13,3 +13,7 @@ Some of projects in developed in Python
 ## Caeser Cipher
 
 * [Check it out!](https://github.com/joaohenriquedossantos/Caeser-Cipher/blob/main/README.MD)
+
+## Calculator
+
+* [Check it out!](https://github.com/joaohenriquedossantos/Calculator/blob/main/README.MD)
